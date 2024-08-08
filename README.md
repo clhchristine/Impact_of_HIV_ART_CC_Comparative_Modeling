@@ -4,6 +4,8 @@ This repository contains model outputs for the DRIVE and Policy1-Cervix-HIV mode
 
 Model outputs are reported for different population subgroups (all women, HIV-negative, HIV-positive, HIV-positive and on ART, HIV-positive and untreated) and age groups (5-year age groups from 0 to 79). 
 
+The DRIVE model presents the minimum, maximum, and median outputs of the 25 best-fitting parameter sets. The Policy1-Cervix-HIV model presents the median output. 
+
 We modelled 8 scenarios: 
 
 **S0: No HIV, no HIV-related interventions:**
